@@ -11,7 +11,8 @@ Mes passions sont la musique, youtube l'animation et photoshop.
 ## $Mes$ $qualités$
 Je suis précis et minutieux. je prend le temps de comprendre ce que je fait et je sui curieux de nature.
 
-## $ps$
+<h1><em>PS</h1>
+  
 $Je$ $suis$ $le$ $représentant$ $du$ $programe$ $TIM$ $pour$ $L'AGEM.$
 
 ![20220827_144635](https://user-images.githubusercontent.com/112128314/214937398-9550a630-08e4-43df-931e-d8e9f8a00ee0.jpg)
