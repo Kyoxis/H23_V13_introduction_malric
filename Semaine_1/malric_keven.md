@@ -2,7 +2,7 @@
 Photo prise de moi lors de la fin de ma première journée à Montmorency.
 
 ## $Mes$ $intérêts$ $dans$ $le$ $domaine$ $du$ $multimédia$
-<br>Je m'itéresse principalement à l'animation 2D/3D et à la réalité virtuel.
+<br>Je m'itéresse principalement à l'animation 2D/3D et à la réalité virtuelle.
 
 
 ## $Mes$ $passions$
