@@ -39,4 +39,9 @@ Le type d'exposition est temporaire et intérieur.
 <em>2018</em>  
 
 <h2>description de l'oeuvre</h2>
+  
+  <h2>Type d'instalation</h2>
+  
+  https://www.youtube.com/watch?v=5xBM2VAC5Y0
+  <br>contemplative et immersive
 
