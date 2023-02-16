@@ -27,10 +27,10 @@ Le type d'exposition est temporaire et intérieur.
 <em>Copacabana Machine Sex</em>
   
   
-![vue_ensemble_oeuvre](https://user-images.githubusercontent.com/112128314/219483526-3cfc5c83-27ce-4342-b7ca-9c62e1979667.jpg)
+![vue_ensemble_oeuvre](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/vue_ensemble_oeuvre.jpg)
   
   
-  <h2>Nom de l'artiste</h2>
+<h2>Nom de l'artiste</h2>
   
-  <strong><em>Bill Vorn</em>
+<strong><em>Bill Vorn</em><strong>
 
