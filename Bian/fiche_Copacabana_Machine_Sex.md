@@ -32,7 +32,7 @@ Le type d'exposition est temporaire et intérieur.
   
 <h2>Nom de l'artiste</h2>
   
-<em>Bill Vorn</em>
+  <strong><em>Bill Vorn</em></strong>
   
 <h2>Année de réalisation</h2>
   
