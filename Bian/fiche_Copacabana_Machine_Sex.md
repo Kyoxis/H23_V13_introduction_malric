@@ -24,7 +24,7 @@ Le type d'exposition est temporaire et intérieur.
 
 <h2>Titre de l'oeuvre</h2>
   
-  <h3><strong>Copacabana Machine Sex</strong></h3>
+<h3><em>Copacabana Machine Sex</em></h3>
   
   
 ![vue_ensemble_oeuvre](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/vue_ensemble_oeuvre.jpg)
