@@ -2,7 +2,7 @@
 
 <h1><em>Voici l'affiche de l'exposition biannuelle intitulée mutation, 6e exposition d'arsenal!</em></h1>
 
-![affiche_arsenal](https://user-images.githubusercontent.com/112128314/219474575-d1968dc7-f9cb-47b6-a8c7-3a41940bf7a5.jpg)
+![affiche_arsenal](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/affiche_arsenal.jpg)
 <br>
 Travail dans le cadre du cours de documentation sur le Bian no.6 d'Arsenal.
 
