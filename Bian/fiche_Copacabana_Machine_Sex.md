@@ -8,7 +8,7 @@ Travail dans le cadre du cours de documentation sur le Bian no.6 d'Arsenal.
 
 <h2>L'addresse de l'exposistion est la suivante: 2020, Rue William,Montréal,Québec</h2>
 
-![moi_devant_arsenal](https://user-images.githubusercontent.com/112128314/219477220-dc8352eb-8021-450d-8103-4205f71c44bc.jpg)
+![moi_devant_arsenal](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/moi_devant_arsenal.jpg)
 <br>La photo est un selfie.
 
 <h2>Type d'exposition</h2>
