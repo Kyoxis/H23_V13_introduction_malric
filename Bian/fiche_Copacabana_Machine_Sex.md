@@ -22,9 +22,9 @@ Le type d'exposition est temporaire et intérieur.
 <em> 2 Février 2023, de 14h à 15h35.<em>
   
 
-<h2>Titre cde l'oeuvre</h2>
+<h2>Titre de l'oeuvre</h2>
   
-<em>Copacabana Machine Sex</em>
+  <h3><strong>Copacabana Machine Sex</strong></h3>
   
   
 ![vue_ensemble_oeuvre](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/vue_ensemble_oeuvre.jpg)
