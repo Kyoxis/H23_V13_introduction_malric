@@ -129,4 +129,32 @@ Copacabana Machine Sex est un spectacle robotique et musicale de 30 minutes impl
   
   
   * squelette de robots
+  
+  
+  
+  
+  <h2>Éléments nécessaires à la mise en exposition</h2>
+  
+  * Squelette de support en metal
+  
+  * Tape à câble
+  
+  * Fils de branchements
+  
+  * Projecteur led
+  
+  * La pièce pour l'exposition
+  
+  
+  <h2>Ce qui m'as a plu, m'as a donné des idées</h2>
+  
+  Comme tel, j'ai bien aimé le timing des lumières et du son. La sycronisation était immesive,<br> elle as donnée de la vie au spectacle robotique.<br>
+  Également, les détails affichés sur les écrans placés sur la tête des robots étaient divertissants.
+  
+  
+  <h2>Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je fairais autrement</h2>
+  
+  L'aspect répétitif de la corégraphie était d'un ennuis épouvantable.<br>En plus, je diversifirais la bande audio pour éviter le lâssage dû à la répétition.
+  
+  
 
