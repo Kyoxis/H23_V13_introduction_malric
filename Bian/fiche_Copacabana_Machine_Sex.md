@@ -40,7 +40,10 @@ Le type d'exposition est temporaire et intérieur.
 
 <h2>description de l'oeuvre</h2>
   
-L'oeuvre consiste d'une démonstration imersive de dance robotique avec des lumière décrivant une scénario théorique dans lequel, les robots, comme les humains d'aujourd'hui, on de plus en plus besoins de se divertir.
+Copacabana Machine Sex est une performance robotique musicale burlesque de 30 minutes impliquant uniquement des machines biomorphiques comme acteurs. L'objectif de l'artiste n'est pas de reproduire un véritable cabaret, mais de concevoir une extravagance métaphorique en réponse à la question suivante : "que se passerait-il si des machines se retrouvaient sur la scène d'un cabaret ?". Le spectacle de Copacabana peut être décrit comme un mini-spectacle de Music Hall, d'où son titre, puisque tant de boîtes de nuit dans le monde sont appelées ainsi. Il s'agit d'une succession de numéros musicaux variés où des machines se produisent sur scène en tant qu'acteurs, musiciens et danseurs. Sur le plan esthétique, le décor est un étrange mélange hybride entre le kitsch classique de Broadway et l'ambiance industrielle sombre des œuvres précédentes de Vorn. Comme la plupart de ses œuvres, il s'agit d'une exploration des formes et des mouvements robotiques à travers la musique, le son et la lumière. Avec cette pièce, le but de l'artiste n'est pas de créer un sex-show déviant ou satirique, mais d'évoquer les comportements humains de manière inhabituelle à travers des actions simplistes de machines présentées dans un contexte familier de Music Hall / cabaret.
+  
+  
+  sources:https://www.elektramontreal.ca/bian2022-bill-vorn?lang=fr
   <br>
   <br>
   <br>
