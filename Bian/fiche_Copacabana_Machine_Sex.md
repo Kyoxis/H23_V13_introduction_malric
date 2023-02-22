@@ -94,4 +94,39 @@ Copacabana Machine Sex est un spectacle robotique et musicale de 30 minutes impl
   ![vue_ensemble_oeuvre](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/vue_ensemble_oeuvre.jpg)
   
   
+  
+  
+  
+  
+  <h2>composantes et techniques</h2>
+  
+ 
+  
+  * écalirage LED
+  
+  
+  
+  * Boules diso
+  
+  
+  
+  * Stroboscope
+  
+  
+  * Compresseur à air
+  
+  
+  * Pistons
+  
+  
+  * Moteurs
+  
+  
+  * Ordinateur
+  
+  
+  * Câbles de support
+  
+  
+  * squelette de robots
 
