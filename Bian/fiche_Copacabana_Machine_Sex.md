@@ -52,7 +52,7 @@ L'oeuvre consiste d'une démonstration imersive de dance robotique avec des lumi
   <br>
   ![vue_3](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/vue_3.jpg)
   <br>
-  ![vue_4](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/)
+  ![vue_4](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/vue_4.jpg)
   <br>
   <h2>Type d'instalation</h2>
   
