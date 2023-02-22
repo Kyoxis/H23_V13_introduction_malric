@@ -42,17 +42,17 @@ Le type d'exposition est temporaire et intérieur.
   
 L'oeuvre consiste d'une démonstration imersive de dance robotique avec des lumière décrivant une scénario théorique dans lequel, les robots, comme les humains d'aujourd'hui, on de plus en plus besoins de se divertir.
   <br>
-  ![cartel_1]
+  ![cartel_1](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/)
   <br>
-  ![cartel_2]
+  ![cartel_2](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/)
   <br>
-  ![vue_1]
+  ![vue_1](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/)
   <br>
-  ![vue_2]
+  ![vue_2](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/)
   <br>
-  ![vue_3]
+  ![vue_3](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/)
   <br>
-  ![vue_4]
+  ![vue_4](https://github.com/Kyoxis/H23_V13_introduction_malric/blob/main/Bian/media/)
   <br>
   <h2>Type d'instalation</h2>
   
