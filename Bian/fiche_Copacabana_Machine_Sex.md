@@ -40,8 +40,7 @@ Le type d'exposition est temporaire et intérieur.
 
 <h2>description de l'oeuvre</h2>
   
-L'oeuvre consiste d'une démonstration imersive de dance robotique décrivant une scénario théorique dans lequel, les robots, comme les humains d'aujourd'hui, 
-on de plus en plus besoins de se dvertir.
+L'oeuvre consiste d'une démonstration imersive de dance robotique avec des lumière décrivant une scénario théorique dans lequel, les robots, comme les humains d'aujourd'hui, on de plus en plus besoins de se divertir.
   <br>
   ![cartel_1]
   <br>
