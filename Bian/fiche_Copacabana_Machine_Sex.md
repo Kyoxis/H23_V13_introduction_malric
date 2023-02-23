@@ -100,14 +100,10 @@ Copacabana Machine Sex est un spectacle robotique et musicale de 30 minutes impl
   
  
   
-  * écalirage LED
+  * écalirage LED et stroboscope
   
   
-  
-  * stroboscope
-  
-  
-  ![vue_4]()
+  ![lumières](media/lumières.jpg)
   
   
   * Boules diso
