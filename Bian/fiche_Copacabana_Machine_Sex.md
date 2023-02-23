@@ -100,20 +100,20 @@ Copacabana Machine Sex est un spectacle robotique et musicale de 30 minutes impl
   
  
   
-  * écalirage LED et stroboscope
+  * <h3>écalirage LED et stroboscope</h3>
   
   
   ![lumières](media/lumières.jpg)
   
   
-  * Boules diso
+  * <h3>Boules diso</h3>
   
   
   ![disco](media/disco_disco.jpg)
 
   
   
-  * Compresseur à air,  Pistons, Moteurs, Ordinateur
+  * <h3>Compresseur à air,  Pistons, Moteurs, Ordinateur</h3>
   
   
   ![bebelle](media/bebelle.jpg)
@@ -121,10 +121,8 @@ Copacabana Machine Sex est un spectacle robotique et musicale de 30 minutes impl
    
   
   
-  * Câbles de support
+  * <h3>Câbles de support et squelettes de robots</h3>
   
-  
-  * squelette de robots
   
   
   ![squelette](media/squelette.jpg)
