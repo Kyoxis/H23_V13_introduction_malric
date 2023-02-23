@@ -3,7 +3,7 @@
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html<br>
 
 <h2>Schéma de plantations</h2> <br> 
-![plantations](medias/plantations.jpg)
+
 
 
  <br> <h2>Schéma de branchements</h2><br>  
