@@ -2,7 +2,12 @@
 
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html<br>
 
-![plantations](media/plantations.jpg)  ![branchements](media/branchement.jpg)
+<h2>Schéma de plantations</h2>
+
+
+![plantations](medias/plantations.jpg) <br> <h2>Schéma de branchements</h2><br>  ![branchements](medias/branchements.jpg)
+
+
 # Edria<br>
 
 https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
