@@ -80,7 +80,7 @@ Copacabana Machine Sex est un spectacle robotique et musicale de 30 minutes impl
   * robots principal et 6 crânes: devant de la scène
   
   
-  ![vue_ensemble_oeuvre](media/vue_ensemble_oeuvre.jpg)  
+  ![vue_ensemble_oeuvre](media/vue_ensemble_oeuvre.jpg)  ![croquis3](media/croquis3.jpg)
   
   
   
