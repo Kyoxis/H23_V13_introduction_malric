@@ -5,15 +5,20 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html<br>
 <h2>Schéma de plantations</h2>
 
 
-![plantations](medias/plantations.jpg) <br> <h2>Schéma de branchements</h2><br>  ![branchements](medias/branchements.jpg)
+ <br> <h2>Schéma de branchements</h2><br>  ![branchements](medias/branchements.jpg)
 
 
 # Edria<br>
 
 https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
 
-<h2>Schéma poteau centreal</h2>
+<h2>Schéma poteau central</h2>
 
+![poteaux](medias/schema_poteau_central.jpg)
+
+<h2>Schéma de branchements</h2>
+
+![branchements](medias/schema_de_branchements_general.jpg)
 
 # Luma sol<br>
 
