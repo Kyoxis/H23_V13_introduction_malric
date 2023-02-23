@@ -1,4 +1,6 @@
-# Projet arsenal keven malric
+# Projet arsenal 
+
+# par: keven malric
 
 <h1><em>Voici l'affiche de l'exposition biannuelle intitulée mutation, 6e exposition d'arsenal!</em></h1>
 
@@ -128,11 +130,10 @@ Copacabana Machine Sex est un spectacle robotique et musicale de 30 minutes impl
   
   <h2>Éléments nécessaires à la mise en exposition</h2>
   
-  * Support en metal
+  * Support en metal et Fils de branchements
   
   ![structure_en_metal](media/structure_en_metal.jpg)
   
-  * Fils de branchements
   
   * Projecteur led et stroboscope
   
