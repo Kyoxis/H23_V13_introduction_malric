@@ -104,11 +104,14 @@ Copacabana Machine Sex est un spectacle robotique et musicale de 30 minutes impl
   
   
   
+  * stroboscope
+  
+  
+  ![vue_4]()
+  
+  
   * Boules diso
-  
-  
-  
-  * Stroboscope
+
   
   
   * Compresseur à air
