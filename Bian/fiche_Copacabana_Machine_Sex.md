@@ -1,12 +1,13 @@
 # Projet arsenal 
 
-# par: keven malric
+# par: Keven Malric
+Travail dans le cadre du cours de documentation
 
 <h1><em>Voici l'affiche de l'exposition biannuelle intitulée mutation, 6e exposition d'arsenal!</em></h1>
 
 ![affiche_arsenal](media/affiche_arsenal.jpg)
 <br>
-Travail dans le cadre du cours de documentation sur le Bian no.6 d'Arsenal.
+
 
 <h2>L'addresse de l'exposistion est la suivante: 2020, Rue William,Montréal,Québec</h2>
 
