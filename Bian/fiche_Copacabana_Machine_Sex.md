@@ -79,7 +79,7 @@ Copacabana Machine Sex est un spectacle robotique et musicale de 30 minutes impl
   <h2>Mise en espace</h2>
   
   
-  Dans la pièce dédiée au oeuvre multimédia, des pourtres de soutien métalique reliés entre eux en forme de cubes soutiennent les robots avec des câbles attachée à la structure. La disposition des robots est la suivante :
+  Dans la pièce dédiée à l'oeuvre multimédia, des pourtres de métal reliés entre eux en forme de cubes soutiennent les robots avec des câbles attachée à la structure. La disposition des robots est la suivante :
   
   
   * Pattes de robots uniquement: arrière de la scène
