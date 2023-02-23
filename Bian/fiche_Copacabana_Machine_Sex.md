@@ -148,7 +148,7 @@ Copacabana Machine Sex est un spectacle robotique et musicale de 30 minutes impl
   Le visiteur est assis devant la scène et il regarde les robots dancer au rythme de la musique.<br>
   Il n'y a aucune interaction physique entre le visiteur et l'oeuvre.
   
-  
+  ![visiteur](media/visiteur.jpg)
   
   
   <h2>Ce qui m'as a plu, m'as a donné des idées</h2>
