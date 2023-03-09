@@ -15,4 +15,4 @@
 <br>
 <br>
 
- ![vr_horizons](img_visite-individuelle/vr_horizons.jpg)
+ ![lieux](img_visite-individuelle/lieux.jpg)      ![lieux2](img_visite-individuelle/lieu2.jpg)
