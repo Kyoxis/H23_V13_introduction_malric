@@ -6,7 +6,7 @@
 
 <h2>Nom de l'exposition</h2>
 
-<strong> VR horizons</strong >
+<strong> Horizons VR </strong >
 
 <br>
 <br>
