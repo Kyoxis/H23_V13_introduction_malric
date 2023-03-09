@@ -8,6 +8,10 @@
 
 <em> 315 Rue Saint-Paul Ouest, Montréal, Québec, H2Y 2A3 </em>
 
+
+
+ ![lieux](img_visite-individuelle/lieux.jpg)      ![lieux2](img_visite-individuelle/lieu2.jpg)
+
 <h2>Nom de l'exposition</h2>
 
 <strong> Horizons VR </strong >
@@ -15,4 +19,4 @@
 <br>
 <br>
 
- ![lieux](img_visite-individuelle/lieux.jpg)      ![lieux2](img_visite-individuelle/lieu2.jpg)
+ ![Horizons VR](img_visite-individuelle/vr_horizons.jpg)
