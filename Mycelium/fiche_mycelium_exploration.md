@@ -33,7 +33,7 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
 <h2>Éloïse Gagné Éloïse Gagné, Skayla Stimphil Skayla Stimphil, Michaël simard Michaël Simard et Pénélope Morrisson</h2>
 
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html<br>
-# Boucler La Boucle<br>
+# Nexum<br>
 
 <h2>Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers</h2>
 
