@@ -16,7 +16,7 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html<br>
 
 # Edria<br>
 
-<h2>Créateurs/créatrices</h2>
+<h2>Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe</h2>
 
 https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
 
