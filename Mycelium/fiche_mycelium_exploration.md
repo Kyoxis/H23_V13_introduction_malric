@@ -40,7 +40,7 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html<br>
 (https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)<br>
 # Zodie-Gal<br>
 
-<h2>Créateurs/créatrices</h2>
+<h2>Abdanor Yara</h2>
 
 https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
 
