@@ -37,7 +37,7 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html<br>
 
 <h2>Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers</h2>
 
-https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html<br>
+(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)<br>
 # Zodie-Gal<br>
 
 <h2>Créateurs/créatrices</h2>
