@@ -16,8 +16,7 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html<br>
 
 # Edria<br>
 
-<h2>Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et
- Jean-Christophe</h2>
+<h2>Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et <br>Jean-Christophe</h2>
 
 https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
 
