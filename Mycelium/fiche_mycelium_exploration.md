@@ -1,6 +1,6 @@
 # echomarine<br>
 
-<h2>Créateurs/créatrices</h2>
+<h2>Florence Lapierre, </h2>
 
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html<br>
 
