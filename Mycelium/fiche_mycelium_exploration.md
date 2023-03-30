@@ -30,7 +30,7 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
 
 # Luma sol<br>
 
-<h2>Créateurs/créatrices</h2>
+<h2>Éloïse Gagné Éloïse Gagné, Skayla Stimphil Skayla Stimphil, Michaël simard Michaël Simard, Pénélope Morrisson Pénélope Morrisson</h2>
 
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html<br>
 # Boucler La Boucle<br>
