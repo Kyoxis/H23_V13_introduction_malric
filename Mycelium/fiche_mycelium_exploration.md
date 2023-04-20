@@ -35,6 +35,14 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html<br>
 # Nexum<br>
 
+<h2>Shémat de branchements</h2>
+
+![branchements](medias/branchement_nexum.png)
+
+<h2>Shémat de plantation</h2>
+
+![plantation](medias/passe_lumiere_nexum.png)
+
 <h2>Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers</h2>
 
 (https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)<br>
