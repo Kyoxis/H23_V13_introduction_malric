@@ -12,7 +12,21 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html<br>
 
  <br> <h2>Schéma de branchements</h2><br>  
  ![branchements](medias/branchements.jpg)
+ 
+ <br>
+ 
+  <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
+   <br>
+  <p>cours de desing graphique, cours de web et cours audio</p>
+  
+ <br>
+ 
+ <h2>technique ou composante que je ne connaissais pas</h2>
+<br>
 
+<h2>9.5/10</h2>
+
+<br>
 
 # Edria<br>
 
@@ -27,12 +41,36 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
 <h2>Schéma de branchements</h2>
 
 ![branchements](medias/schema_de_branchement_general_3.jpg)
+  <br>
+
+  <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
+   <br>
+  <p>cours d'instalation multimédia, cours d'expérience multimédia et cours de conception audio</p>
+  
+  <h2>technique ou composante que je ne connaissais pas</h2>
+  <br>
+  
+  <h2>8.5/10</h2>
+  
+  <br>
 
 # Luma sol<br>
 
 <h2>Éloïse Gagné Éloïse Gagné, Skayla Stimphil Skayla Stimphil, Michaël simard Michaël Simard et Pénélope Morrisson</h2>
 
-https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html<br>
+https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+  <br>
+
+  <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
+   <br>
+  <p>cours d'instalation multimédia, cours d'expérience multimédia et cours de conception d'une expérience multimédia</p><br>
+  
+  <h2>technique ou composante que je ne connaissais pas</h2><br> 
+  
+  <h2>7/10</h2>
+  
+  <br>
+
 # Nexum<br>
 
 <h2>Shémat de branchements</h2>
@@ -45,12 +83,34 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html<br>
 
 <h2>Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers</h2>
 
-(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)<br>
+(https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
+  <br>
+
+  <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
+   <br>
+  <p>cours d'instalation multimédia, cours d'expérience multimédia et cours de conception audio</p><br>
+  
+  <h2>technique ou composante que je ne connaissais pas</h2><br>
+  
+  <h2>6.5/10</h2>
+  
+   <br>
+  
 # Zodie-Gal<br>
 
 <h2>Abdanor Yara</h2>
 
 https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
+  <br>
+
+  <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
+   <br>
+  <p>cours de web, cours d'introduction javascript et cours de conception d'une expérience multimédia</p><br>
+  
+  <h2>technique ou composante que je ne connaissais pas</h2><br>
+  
+  <h2>5/10</h2>
+  <br>
 
 
 # Sources:
