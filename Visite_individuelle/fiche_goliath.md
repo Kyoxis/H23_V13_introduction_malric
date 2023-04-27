@@ -19,4 +19,4 @@
 <br>
 <br>
 
- ![Horizons VR](img_visite-individuelle/vr_horizons.jpg)
+ ![Horizons VR](img_visite-individuelle/description-de_la_piece.jpg)
