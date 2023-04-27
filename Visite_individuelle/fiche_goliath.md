@@ -1,4 +1,4 @@
-<h2> nom de l'exposition</h2>
+<h2> Nom de l'exposition</h2>
 
 <strong> VR Horizon </strong>
 
