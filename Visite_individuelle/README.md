@@ -15,7 +15,7 @@
 315 Rue Saint-Paul Ouest,Montréal,QC H2Y-2M3</p>
 
 
-![lieu centre PHI](media/affiche_arsenal.jpg)
+![lieu centre PHI](img_visite-individuelle/lieux.jpg)
 
 
 
