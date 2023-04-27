@@ -43,3 +43,17 @@
 <p>La pièce est sombre et stylé pour ressembler à un l'intérieur d'un vieux jeu vidéo. il y a des bancs pour s'asseoir. Les casques VR et les commandes sont accroché sur les murs. Les haut parleurs sont dans les coins de la pièce.</p>
 
 ![lieu centre PHI](img_visite-individuelle/description-de_la_piece.jpg) ![lieu centre PHI](img_visite-individuelle/equipement3.jpg)
+
+<h2>composantes et techniques</h2>
+
+<p>Ça prend des casques VR et les commandes correspondantes pour vivre l'expérience.</p>
+
+![lieu centre PHI](img_visite-individuelle/equipement3.jpg)
+
+<h2>Éléments nécessaires à la mise en exposition</h2>
+
+<p>Les câbles sont caché au plafond et sont relier aux limières pour l'ambiance. un ordinateur central est présent pour permettre aux opérateurs de débuter l'expérience et de réparé les bugs et autres bris si il y a lieu.</p>
+
+![lieu centre PHI](img_visite-individuelle/equipement3.jpg)
+
+
