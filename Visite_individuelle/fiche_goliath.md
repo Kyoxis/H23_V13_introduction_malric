@@ -60,4 +60,14 @@
 
 <p>L'interaction entre le visiteur et l'oeuvre est virtuelle. Les visiteurs portent un casque et ils ont, entre leurs mains, des manettes liées au casque de réalité virtuelle.</p>
 
+<h2>Ce qui m'as plu et m'as donné des idées</h2>
 
+<p>L'expérience m'as globalement plu. Toutefois, ce que j'ai apprécié le plus, c'est le côté plus psycologique de l'oeuvre ce qui m'as fait réfléchir au concepte de la réalité. Les mini jeux comme distraction incarnais les points et arguments présentés par l'audio de l'oeuvre.</p>
+
+<h2>Ce que je fairais autrement</h2>
+
+<p>Je fairais en sorte que les visiteurs aient l'option de se déplacer à pied pour une meilleur immersion.</p>
+
+<h2>Médiagraphie</h2>
+
+<p>Moi, mes photos et mon beau visage</p>
