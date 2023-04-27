@@ -4,11 +4,13 @@
 # Zodie-Gal<br>
 
 <h2>par Abdanor Yara</h2><br>
-![jeu](media/zodie-gal_game.jpg)_
+
+![jeu](medias/zodie-gal_game.jpg)
+<br>
 <h2>Année de réalisation</h2><br><p>2023</p>
 <h2>Description de l'oeuvre</h2><br>
-<p>Un jeu d'aventure qui se base sur la periode de puberte d'une jeune fille dans ses peurs d'adolescantes.<p><br>
-<p>Zodie Gal projet est un jeu web de touche et aventure où il faut aider une jeune fille à trouver des moyens de tuer des monstres Zodiac en cliquant sur le bon objet d’une image. Il y a 12 niveaux au total(baser sur le zodiac). Chaque niveaux contient 2 images: une image pour trouver le bon objet à utiliser contre le Zodiac et une image qui montre la victoire au joueur face au Zodiac.</p>
+<p>Un jeu d'aventure qui se base sur la periode de puberté d'une jeune fille et ses craintes d'adolescantes.<p><br>
+<p>Zodie-Gal est un jeu web d'aventure et de chercher et trouve où il faut aider une jeune fille à trouver des moyens de tuer les monstres correspondant au signe du Zodiac en cliquant sur le bon objet dans l'image. Il y a 12 niveaux au total, un pour chaque signe du zodiac. Chaque niveau contient 2 images: une image pour trouver le bon objet à utiliser contre le Zodiac et une image qui montre la victoire au joueur face au monstres du Zodiac.</p>
 <h2>note<h2><br></p>9.7/10<p><br>
 <h2>date de visite</h2><br>
 <h3><em>23/03/2023<em><h3> <br>
@@ -17,6 +19,9 @@
 <h2>Type d'instalation</h2><br>
 <p>Intrérieur,temporaire,interactif<p><br>
 <h2>Mise en espace</h2><br>
+  
+![mise en espace](medias/.jpg)
+<br>
 <p>L'oeuvre est placé dans un coin du grand studion. les visiteurs sont guidés par de petites fèches jaunes animées l'ordinateur pour interagir avec l'oeuvre est placé sur un chariot et est éclairé par une lampe, lui donnant un ère sinistre.</p> 
 <h2>composantes et techniques</h2><br><p>Le jeu est sur portable, sur un chariot et est éclairé par une lampe.</p><br>
 <h2>Éléments nécessaires à la mise en exposition</h2><br><p>Un portable, une base, une lampe et des files</p><br>
