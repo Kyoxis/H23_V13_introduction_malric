@@ -48,7 +48,7 @@
 
 <p>Ça prend des casques VR et les commandes correspondantes pour vivre l'expérience.</p>
 
-![lieu centre PHI](img_visite-individuelle/equipement3.jpg)
+![lieu centre PHI](img_visite-individuelle/equipement2.jpg)
 
 <h2>Éléments nécessaires à la mise en exposition</h2>
 
