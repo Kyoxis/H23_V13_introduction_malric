@@ -56,7 +56,11 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
 
 # Luma sol<br>
 
-<h2>Éloïse Gagné Éloïse Gagné, Skayla Stimphil Skayla Stimphil, Michaël simard Michaël Simard et Pénélope Morrisson</h2>
+<h2>Éloïse Gagné Éloïse Gagné, Skayla Stimphil Skayla Stimphil, Michaël simard Michaël Simard et Pénélope Morrisson</h2>  <br>
+
+ ![plantations](medias/branchements_lumasol.png)  <br>
+ 
+  ![plantations](medias/scenarimage_lumasol.png)  <br>
 
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
   <br>
