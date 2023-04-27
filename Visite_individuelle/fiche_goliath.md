@@ -21,7 +21,7 @@
 
 <p>Goliath</p>
 
-![lieu centre PHI](img_visite-individuelle/vr_horizons.jpg)
+![lieu centre PHI](img_visite-individuelle/cartel_goliath.jpg)
 
 <h2>Type d'exposion</h2>
 
