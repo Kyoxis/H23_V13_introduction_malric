@@ -54,6 +54,6 @@
 
 <p>Les câbles sont caché au plafond et sont relier aux limières pour l'ambiance. un ordinateur central est présent pour permettre aux opérateurs de débuter l'expérience et de réparé les bugs et autres bris si il y a lieu.</p>
 
-![lieu centre PHI](img_visite-individuelle/equipement3.jpg)
+![lieu centre PHI](img_visite-individuelle/equipement.jpg)
 
 
