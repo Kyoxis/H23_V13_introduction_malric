@@ -4,6 +4,7 @@
 # Zodie-Gal<br>
 
 <h2>par Abdanor Yara</h2><br>
+![jeu](media/zodie-gal_game.jpg)_
 <h2>Année de réalisation</h2><br><p>2023</p>
 <h2>Description de l'oeuvre</h2><br>
 <p>Un jeu d'aventure qui se base sur la periode de puberte d'une jeune fille dans ses peurs d'adolescantes.<p><br>
