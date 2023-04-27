@@ -9,6 +9,14 @@
 
 <strong> VR Horizon </strong>
 
+<h2>addresse de l'exposition</h2>
+<p>Centre PHI
+
+315 Rue Saint-Paul Ouest,Montréal,QC H2Y-2M3</p>
+
+
+![lieu centre PHI](media/affiche_arsenal.jpg)
+
 
 
 
