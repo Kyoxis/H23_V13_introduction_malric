@@ -40,5 +40,5 @@
 ![Demo2](medias/zodie_demo2.jpg)
 <br>
 
-<h2>Sources</h2>
+<h2>Médiagraphie</h2>
 https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
