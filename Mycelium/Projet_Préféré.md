@@ -26,17 +26,17 @@
 <h2>composantes et techniques</h2><br><p>Un portable et un accès à internet </p><br>
 <h2>Éléments nécessaires à la mise en exposition</h2><br><p>Un portable, une base, une lampe, des files et des speakers</p><br>
   
- ![mise en espace](medias/composantes_zodie2.jpg)![mise en espace](medias/composantes_zodie3.jpg)
+ ![composante1](medias/composantes_zodie2.jpg)![composante2](medias/composantes_zodie3.jpg)
 <br>
 <br>
 <h2>Expérience vécu</h2><br><p>Les visiteurs apporchent le portable et ils se mettent à jouer au jeu.</p><br>
 <h2>Ce qui m'as a plu & m'as a donné des idées</h2><br><p>Les effets visuels sont incroyables et l'audio incluant, la musique, reflète parfaitement l'ambiance d'aventure sinistre décrite dans la description de l'auteur.</p><br>
   
-![mise en espace](medias/zodie_demo1.jpg)  
+![Demo1](medias/zodie_demo1.jpg)  
   <br>
 <h2>Aspect que je souhaiterais retenir pour mes propres créations</h2><br><p>Je prendrai notes du timing des effets sonnores car ils étaient placé stratégiquement pour capter l'attention du visiteur et donnant de fait même envie de continuer le jeu jusqu'à la fin.</p><br>
 <h2>Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je fairais autrement</h2><br><p>je simplifirais les illustration utiliser car il était très diffficile de comprendre et d'aprécier les diverses illustration de l'artiste.</p>
-![]
+![demo2](medias/zodie_demo2.jpg)
 
 
 
