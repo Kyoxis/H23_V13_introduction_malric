@@ -34,6 +34,13 @@
 <p>Le type d'instalation est immersive et interactive car Goliath nous fait vivre l'expérience d'être schizophrène.</p>
 
 
+<h2>Mise en espace</h2>
+
+<p>La pièce est sombre et stylé pour ressembler à un l'intérieur d'un vieux jeu vidéo. il y a des bancs pour s'asseoir. Les casques VR et les commandes sont accroché sur les murs. Les haut parleurs sont dans les coins de la pièce.</p>
+
+![lieu centre PHI](img_visite-individuelle/lieux.jpg)
+
+
 
 
 
