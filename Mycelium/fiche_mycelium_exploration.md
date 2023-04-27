@@ -73,7 +73,7 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
   <p>cours d'instalation multimédia, cours d'expérience multimédia et cours de conception d'une expérience multimédia</p><br>
   
   <h2>technique ou composante que je ne connaissais pas</h2><br> 
-  
+  <p>Madmapper est un logiciel qui fait une sorte de réealité augmenté à partir d'objets.</p><br>
   <h2>7/10</h2>
   
   <br>
@@ -116,6 +116,8 @@ https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
   
   <h2>technique ou composante que je ne connaissais pas</h2><br>
   
+  <p>GDevelop5 est un logiciel de création de jeu 2D gratuitement en français.</p><br>
+
   <h2>5/10</h2>
   <br>
 
@@ -137,3 +139,5 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html#schémas-ou-plans-techniques
 # 8:
 https://fr.wikipedia.org/wiki/Reaper_(logiciel)
+# 9:
+https://www.creerunjeuvideo.fr/creer-jeu-android-gdevelop/#:~:text=C%E2%80%99est%20quoi%20GDevelop%205%20%3F%20GDevelop%205%20est,l%E2%80%99outil%20id%C3%A9al%20pour%20cr%C3%A9er%20vos%20jeux%20en%202D.
