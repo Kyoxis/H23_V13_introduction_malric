@@ -3,7 +3,7 @@
 <strong> VR Horizon </strong>
 
 
-![lieu centre PHI](img_visite-individuelle/lieux.jpg)
+![lieu centre PHI](img_visite-individuelle/vr_horizons.jpg)
 
 <h2>addresse de l'exposition</h2>
 <p>Centre PHI
