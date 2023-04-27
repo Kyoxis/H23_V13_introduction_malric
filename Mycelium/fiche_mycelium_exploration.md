@@ -97,8 +97,6 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
    <br>
   <p>cours d'instalation multimédia, cours d'expérience multimédia et cours de conception audio</p><br>
   
-  <h2>technique ou composante que je ne connaissais pas</h2><br>
-  
   <h2>6.5/10</h2>
   
    <br>
