@@ -17,7 +17,7 @@
 
 <em> 5 mars 2023</em>
 
-<h2>nom de l'oeuvre</h2>
+<h2>Nom de l'oeuvre</h2>
 
 <p>Goliath</p>
 
@@ -27,7 +27,7 @@
 
 <p>Le type d'exposition est temporaire et intérieur.</p>
 
-<h2>description de l'œuvre</h2>
+<h2>Description de l'œuvre</h2>
 
 
 <p>L'oeuvre est une expérience den réalité virtuelle explorant lavie d'un schizophrène surnommé Goliath dû au fait qu'il joue au jeux video car sa le centre sur sa conception de la réalité. l'expérience nous fait réaliser que chaque personne peut facilement perdre sa conception du réel telque démontré à la fin ou Goliath nous demande si nous avions compris que nous étions toujours dans le jeu en réalité virtuelle.</p>
