@@ -56,4 +56,8 @@
 
 ![lieu centre PHI](img_visite-individuelle/equipement.jpg) ![lieu centre PHI](img_visite-individuelle/details_branchements.jpg)
 
+<h2>Expérience vécu</h2>
+
+<p>L'interaction entre le visiteur et l'oeuvre est virtuelle. Les visiteurs portent un casque et ils ont, entre leurs mains, des manettes liées au casque de réalité virtuelle.</p>
+
 
