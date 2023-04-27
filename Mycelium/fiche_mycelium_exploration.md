@@ -24,6 +24,8 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html<br>
  <h2>technique ou composante que je ne connaissais pas</h2>
 <br>
 
+  <p>Reaper est un logiciel de production sonore qui a été crée par Justin Frankel, un programmeur informatique américain né en 1978.</p>
+<br>
 <h2>9.5/10</h2>
 
 <br>
@@ -49,7 +51,8 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
   
   <h2>technique ou composante que je ne connaissais pas</h2>
   <br>
-  
+  <p>La boîte noire est un regroupement d'appareil électronique visant à être un centre de branchements pour le projet.</p>
+  <br>
   <h2>8.5/10</h2>
   
   <br>
@@ -132,3 +135,5 @@ https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 # 7: 
 https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html#schémas-ou-plans-techniques
+# 8:
+https://fr.wikipedia.org/wiki/Reaper_(logiciel)
