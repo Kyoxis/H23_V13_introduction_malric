@@ -1,22 +1,41 @@
-<h1>Goliath</h1>
+<h2> nom de l'exposition</h2>
 
-<h2>Date de visite d'exposition</h2>
+<strong> VR Horizon </strong>
 
-<em> 5 mars 2023 </em>
+<h2>addresse de l'exposition</h2>
+<p>Centre PHI
 
-<h2> Address de l'exposion </h2>
-
-<em> 315 Rue Saint-Paul Ouest, Montréal, Québec, H2Y 2A3 </em>
-
+315 Rue Saint-Paul Ouest,Montréal,QC H2Y-2M3</p>
 
 
- ![lieux](img_visite-individuelle/lieux.jpg)      ![lieux2](img_visite-individuelle/lieu2.jpg)
+![lieu centre PHI](img_visite-individuelle/lieux.jpg)
 
-<h2>Nom de l'exposition</h2>
+<h2>Date lors de la visite de l'exposition</h2>
 
-<strong> Horizons VR </strong >
+<em> 5 mars 2023</em>
 
-<br>
-<br>
+<h2>nom de l'oeuvre</h2>
 
- ![Horizons VR](img_visite-individuelle/description-de_la_piece.jpg)
+<p>Goliath</p>
+
+
+<h2>Type d'exposion</h2>
+
+
+<p>Le type d'exposition est temporaire et intérieur.</p>
+
+<h2>description de l'œuvre</h2>
+
+
+<p>L'oeuvre est une expérience den réalité virtuelle explorant lavie d'un schizophrène surnommé Goliath dû au fait qu'il joue au jeux video car sa le centre sur sa conception de la réalité. l'expérience nous fait réaliser que chaque personne peut facilement perdre sa conception du réel telque démontré à la fin ou Goliath nous demande si nous avions compris que nous étions toujours dans le jeu en réalité virtuelle.</p>
+
+<h2>Type d'instalation</h2>
+
+<p>Le type d'instalation est immersive et interactive car Goliath nous fait vivre l'expérience d'être schizophrène.</p>
+
+
+<h2>Mise en espace</h2>
+
+<p>La pièce est sombre et stylé pour ressembler à un l'intérieur d'un vieux jeu vidéo. il y a des bancs pour s'asseoir. Les casques VR et les commandes sont accroché sur les murs. Les haut parleurs sont dans les coins de la pièce.</p>
+
+![lieu centre PHI](img_visite-individuelle/description-de_la_piece.jpg)
