@@ -5,7 +5,7 @@
 
 ![lieu centre PHI](img_visite-individuelle/vr_horizons.jpg)
 
-<h2>addresse de l'exposition</h2>
+<h2>Addresse de l'exposition</h2>
 <p>Centre PHI
 
 315 Rue Saint-Paul Ouest,Montréal,QC H2Y-2M3</p>
