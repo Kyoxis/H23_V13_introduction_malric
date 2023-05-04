@@ -8,3 +8,6 @@ Elle à parlé, par la suite, de différents type d'expositions comme les exposi
 <br>
 <br>
 <p>Pour conclure, la conférence, bien que très informative, ne m'as simplement pas plu et je me suis sentis très peu visé malgré l'importance de la documentation dans notre métier. J'aurais préféré plus de détails sur les défis de notre métier à la place d'un bibliographie d'un artiste.</p>
+
+<h2>Médiagraphie utilisé</h2>
+<p>https://www.facebook.com/Antimodular/</p>
