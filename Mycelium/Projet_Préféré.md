@@ -3,7 +3,7 @@
 
 # Zodie-Gal<br>
 
-<h2>par Abdanor Yara</h2><br>
+<h2>Par Abdanor Yara</h2><br>
 
 ![jeu](medias/zodie-gal_game.jpg)
 <br>
@@ -11,10 +11,10 @@
 <h2>Description de l'oeuvre</h2><br>
 <p>Un jeu d'aventure qui se base sur la periode de puberté d'une jeune fille et ses craintes d'adolescantes.<p><br>
 <p>Zodie-Gal est un jeu web d'aventure et de chercher et trouve où il faut aider une jeune fille à trouver des moyens de tuer les monstres correspondant au signe du Zodiac en cliquant sur le bon objet dans l'image. Il y a 12 niveaux au total, un pour chaque signe du zodiac. Chaque niveau contient 2 images: une image pour trouver le bon objet à utiliser contre le Zodiac et une image qui montre la victoire au joueur face au monstres du Zodiac.</p>
-<h2>note<h2><br></p>9.7/10<p><br>
-<h2>date de visite</h2><br>
+<h2>Note<h2><br></p>9.7/10<p><br>
+<h2>Date de visite</h2><br>
 <h3><em>23/03/2023<em><h3> <br>
-<h2>addresse d'exposition</h2> <br>
+<h2>Addresse d'exposition</h2> <br>
 <p>475 Boulevard de l'avenir, Laval, QC H7N-5H9 </p><br>
 <h2>Type d'instalation</h2><br>
 <p>Intrérieur,temporaire,interactif<p><br>
