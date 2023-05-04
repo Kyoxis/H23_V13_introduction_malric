@@ -23,7 +23,7 @@
 
 ![lieu centre PHI](img_visite-individuelle/cartel_goliath.jpg)
 
-<h2>Type d'explosion</h2>
+<h2>Type d'exposition</h2>
 
 
 <p>Le type d'exposition est temporaire et intérieur.</p>
