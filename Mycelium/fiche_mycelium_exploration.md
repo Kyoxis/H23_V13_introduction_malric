@@ -15,16 +15,16 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html<br>
  
  <br>
  
-  <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
+  <h2>3 cours que je crois essentiels à la réalisation du projet </h2>
    <br>
-  <p>Cours de desing graphique, cours de web et cours audio</p>
+  <p>Cours de design graphique, cours de web et cours audio</p>
   
  <br>
  
  <h2>Technique ou composante que je ne connaissais pas</h2>
 <br>
 
-  <p>Reaper est un logiciel de production sonore qui a été crée par Justin Frankel, un programmeur informatique américain né en 1978.</p>
+  <p>Reaper est un logiciel de production sonore qui a été créée par Justin Frankel, un programmeur informatique américain né en 1978.</p>
 <br>
 <h2>9.5/10</h2>
 
@@ -45,13 +45,13 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
 ![branchements](medias/schema_de_branchement_general_3.jpg)
   <br>
 
-  <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
+  <h2>3 cours que je crois essentiels à la réalisation du projet </h2>
    <br>
-  <p>Cours d'instalation multimédia, cours d'expérience multimédia et cours de conception audio</p>
+  <p>Cours d'installation multimédia, cours d'expérience multimédia et cours de conception audio</p>
   
   <h2>Technique ou composante que je ne connaissais pas</h2>
   <br>
-  <p>La boîte noire est un regroupement d'appareil électronique visant à être un centre de branchements pour le projet.</p>
+  <p>La boîte noire est un regroupement d'appareils électroniques visant à être un centre de branchements pour le projet.</p>
   <br>
   <h2>8.5/10</h2>
   
@@ -59,7 +59,7 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
 
 # Luma sol<br>
 
-<h2>Éloïse Gagné Éloïse Gagné, Skayla Stimphil Skayla Stimphil, Michaël simard Michaël Simard et Pénélope Morrisson</h2>  <br>
+<h2>Éloïse Gagné Éloïse Gagné, Skayla Stimphil Skayla Stimphil, Michaël Simard Michaël Simard et Pénélope Morrisson</h2>  <br>
 
  ![plantations](medias/branchements_lumasol.png)  <br>
  
@@ -68,12 +68,12 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
   <br>
 
-  <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
+  <h2>3 cours que je crois essentiels à la réalisation du projet </h2>
    <br>
-  <p>Cours d'instalation multimédia, cours d'expérience multimédia et cours de conception d'une expérience multimédia</p><br>
+  <p>Cours d'installation multimédia, cours d'expérience multimédia et cours de conception d'une expérience multimédia</p><br>
   
   <h2>Technique ou composante que je ne connaissais pas</h2><br> 
-  <p>Madmapper est un logiciel qui fait une sorte de réealité augmenté à partir d'objets.</p><br>
+  <p>Madmapper est un logiciel qui fait une sorte de réalité augmentée à partir d'objets.</p><br>
   <h2>7/10</h2>
   
   <br>
@@ -93,9 +93,9 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 (https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
   <br>
 
-  <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
+  <h2>3 cours que je crois essentiels à la réalisation du projet </h2>
    <br>
-  <p>Cours d'instalation multimédia, cours d'expérience multimédia et cours de conception audio</p><br>
+  <p>Cours d'installation multimédia, cours d'expérience multimédia et cours de conception audio</p><br>
   
   <h2>6.5/10</h2>
   
@@ -108,9 +108,9 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
   <br>
 
-  <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
+  <h2>3 cours que je crois essentiels à la réalisation du projet </h2>
    <br>
-  <p>Cours de web, cours d'introduction javascript et cours de conception d'une expérience multimédia</p><br>
+  <p>Cours de web, cours d'introduction JavaScript et cours de conception d'une expérience multimédia</p><br>
   
   <h2>Technique ou composante que je ne connaissais pas</h2><br>
   
@@ -139,3 +139,4 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html#sché
 https://fr.wikipedia.org/wiki/Reaper_(logiciel)
 # 9:
 https://www.creerunjeuvideo.fr/creer-jeu-android-gdevelop/#:~:text=C%E2%80%99est%20quoi%20GDevelop%205%20%3F%20GDevelop%205%20est,l%E2%80%99outil%20id%C3%A9al%20pour%20cr%C3%A9er%20vos%20jeux%20en%202D.
+
