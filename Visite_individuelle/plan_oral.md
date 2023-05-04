@@ -8,3 +8,6 @@
 <br>
 <h1>Conclusion</h1>
 <p>J'ai alors parlé de Goliath, de sa mise en espace, de ses composantes, de mon expérience personnel et de ma critique de l'oeuvre, mais malgré toutes les visites des cette session, la conférence de Yanik Daunais est de loin ma préféré du à son aspect pratique. Les manuelles d'opération sont très importants; je parle d'expérience personnel.</p>
+
+<h1>Médiagraphie utilisée</h1>
+<p>https://phi.ca/fr/evenements/horizons-vr/#goliath</p>
