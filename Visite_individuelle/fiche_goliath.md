@@ -46,7 +46,7 @@
 
 <h2>composantes et techniques</h2>
 
-<p>Ça prend des casques VR et les commandes correspondantes pour vivre l'expérience.</p>
+<p>Ça prend des casques VR et les manettes correspondantes pour vivre l'expérience.</p>
 
 ![lieu centre PHI](img_visite-individuelle/equipement2.jpg)
 
