@@ -8,6 +8,6 @@ Yanik Daunais à commencé par parlé des approches multimédia et du but de ces
 <br>
 <p>La conférence m'as grandement intrigué dû à sa nature plus technique. Le conférentier ne s'attardait pas aux détails de projets passé et visait à nous informé réellement des techniques et des attitudes à adoopter en millieux professionelles. Des deux coférences, celle-ci est de loin ma préféré.</p>
 
-<h2>Médiagraphie utilisé</h2>
+<h2>Médiagraphie utilisée</h2>
 <p>https://halo.team/services/</p>
 <p>https://halo.team/a-propos/</p<
