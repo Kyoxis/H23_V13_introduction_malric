@@ -1,4 +1,4 @@
-# echomarine<br>
+# Echomarine<br>
 
 <h2>Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel </h2>
 
@@ -17,11 +17,11 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html<br>
  
   <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
    <br>
-  <p>cours de desing graphique, cours de web et cours audio</p>
+  <p>Cours de desing graphique, cours de web et cours audio</p>
   
  <br>
  
- <h2>technique ou composante que je ne connaissais pas</h2>
+ <h2>Technique ou composante que je ne connaissais pas</h2>
 <br>
 
   <p>Reaper est un logiciel de production sonore qui a été crée par Justin Frankel, un programmeur informatique américain né en 1978.</p>
@@ -47,9 +47,9 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html<br>
 
   <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
    <br>
-  <p>cours d'instalation multimédia, cours d'expérience multimédia et cours de conception audio</p>
+  <p>Cours d'instalation multimédia, cours d'expérience multimédia et cours de conception audio</p>
   
-  <h2>technique ou composante que je ne connaissais pas</h2>
+  <h2>Technique ou composante que je ne connaissais pas</h2>
   <br>
   <p>La boîte noire est un regroupement d'appareil électronique visant à être un centre de branchements pour le projet.</p>
   <br>
@@ -70,9 +70,9 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
   <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
    <br>
-  <p>cours d'instalation multimédia, cours d'expérience multimédia et cours de conception d'une expérience multimédia</p><br>
+  <p>Cours d'instalation multimédia, cours d'expérience multimédia et cours de conception d'une expérience multimédia</p><br>
   
-  <h2>technique ou composante que je ne connaissais pas</h2><br> 
+  <h2>Technique ou composante que je ne connaissais pas</h2><br> 
   <p>Madmapper est un logiciel qui fait une sorte de réealité augmenté à partir d'objets.</p><br>
   <h2>7/10</h2>
   
@@ -95,7 +95,7 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
   <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
    <br>
-  <p>cours d'instalation multimédia, cours d'expérience multimédia et cours de conception audio</p><br>
+  <p>Cours d'instalation multimédia, cours d'expérience multimédia et cours de conception audio</p><br>
   
   <h2>6.5/10</h2>
   
@@ -110,9 +110,9 @@ https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
 
   <h2>3 cours que je crois essentiel à la réalisation du projet </h2>
    <br>
-  <p>cours de web, cours d'introduction javascript et cours de conception d'une expérience multimédia</p><br>
+  <p>Cours de web, cours d'introduction javascript et cours de conception d'une expérience multimédia</p><br>
   
-  <h2>technique ou composante que je ne connaissais pas</h2><br>
+  <h2>Technique ou composante que je ne connaissais pas</h2><br>
   
   <p>GDevelop5 est un logiciel de création de jeu 2D gratuitement en français.</p><br>
 
